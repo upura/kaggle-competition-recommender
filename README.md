@@ -4,7 +4,7 @@
 
 ## Recommend algorithm
 
-- Non-Negative Matrix Factorization (NMF) by [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html)
+- Non-Negative Matrix Factorization (NMF) implemented by [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html).
 - Target values are whether a user participates in a competition.
 - You can see full codes in [this published notebook](https://www.kaggle.com/sishihara/competition-recommendation-by-matrix-factorization).
 
